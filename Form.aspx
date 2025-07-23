@@ -116,6 +116,16 @@
                 <asp:Button ID="btnPets" runat="server" Text="Back to Pets" CssClass="btn-pets" OnClick="btnPets_Click" />
             </div>
         </asp:Panel>
+        <asp:Panel ID="Panel1" runat="server" Visible="false">
+    <div class="form-container">
+        <div class="confirmation-message">
+            <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
+        </div>
+        <asp:Button ID="Button1" runat="server" Text="Back to Pets" CssClass="btn-pets" OnClick="btnPets_Click" />
+    </div>
+</asp:Panel>
     </form>
 </body>
 </html>
+
+
