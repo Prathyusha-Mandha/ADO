@@ -127,10 +127,3 @@
     </form>
 </body>
 </html>
-
-
-<<<<<<< HEAD
-=======
-
-<!-- Confirmation Panel -->
->>>>>>> fdb0db3f45248f471622e52d95dd2b44a3f13762
